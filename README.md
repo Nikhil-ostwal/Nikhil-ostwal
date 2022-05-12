@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nikhil-ostwal
 - 👀 I’m interested in Data scinece, Analytics and Web development
-- 🌱 I’m currently learning Deep Learning and Machine learning with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently Master's Student with a Focus in Intelligence and Data
+- 💞️ I’m looking for working opportunities in the above mentioned fields
+- 📫 How to reach me at: https://www.linkedin.com/in/nikhil-ostwal/
 
 <!---
 Nikhil-ostwal/Nikhil-ostwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
