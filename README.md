@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhil-ostwal
-- 👀 I’m interested in Data scinece, Analytics and Web development
+- 👀 I’m interested in Machine Learning, Deep Learning, Analytics and Web development using python
 - 🌱 I’m currently Master's Student with a Focus in Intelligence and Data
 - 💞️ I’m looking for working opportunities in the above mentioned fields
 - 📫 How to reach me at: https://www.linkedin.com/in/nikhil-ostwal/
