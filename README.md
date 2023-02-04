@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nikhil-ostwal
-- 👀 I’m interested in Machine Learning, Deep Learning, Data Analytics and Development using Python
-- 🌱 I have completed my Master's In Computer Science with a Focus in Intelligence and Data
-- 💞️ I’m actively looking for working opportunities in the above mentioned fields
+- 👀 I’m interested in RL, Deep Learning, Data Analytics and Development using Python
+- 🌱 As an Asscociate Researcher, currently I'm working on AI in Healthcare
 - 📫 How to reach me at: https://www.linkedin.com/in/nikhil-ostwal/
 
 <!---
