@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nikhil-ostwal
 - 👀 I’m interested in AI and Deep Learning using Python
-- 🌱 As an Asscociate Researcher, currently I'm working on AI in Healthcare
 - 📫 How to reach me at: https://www.linkedin.com/in/nikhil-ostwal/
 
 <!---
